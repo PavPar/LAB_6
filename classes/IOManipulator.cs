@@ -37,7 +37,7 @@ namespace LAB_6.classes
 
                 switch (value)
                 {
-                    case '&':
+                    case '=':
                         {
                             if (storedValue != "" && currValue != "" && currOperation != '\0')
                             {

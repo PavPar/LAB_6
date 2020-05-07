@@ -68,7 +68,7 @@ namespace LAB_6.classes
                     }
                 case "Oemplus":
                     {
-                        return '&';
+                        return '=';
                     }
                 case "Back":
                     {
