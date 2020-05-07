@@ -113,5 +113,6 @@ namespace LAB_6
         {
             Manipulator.Notify((sender as Button).Text[0], true);
         }
+       
     }
 }
